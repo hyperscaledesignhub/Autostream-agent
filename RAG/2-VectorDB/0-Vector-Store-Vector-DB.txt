@@ -1,0 +1,14 @@
+Vector-store: Vector store is a library useful for 
+quick prototypes where we can generate upto 1million 
+embeddings in memory and store them 
+
+Vector-DB: Proper distributed database useful 
+for storing the embeddings and retreiving embeddings 
+
+
+Example of Vector stores:
+FAISS,Annoy, ChromaDB, ScaNN, NMSLIB 
+
+Example of Vector DB:
+
+PineCone, Weavite, Qdrant, Milvus and Vespa, DataStax
